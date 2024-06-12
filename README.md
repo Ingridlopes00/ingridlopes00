@@ -19,4 +19,4 @@
 
 ![Ingrid Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridlopes00&show_icons=true&theme=radical)
 
-Sou uma programadora apaixonada pela aprendizagem contínua e pelo compartilhamento de conhecimentos. Estou sempre em busca de novos desafios e oportunidades para crescer. Fique à vontade para entrar emm contato comigo, vamos aprender e compartilhar juntos! :EMOJICODE💻 <br><br>
+Sou uma programadora apaixonada pela aprendizagem contínua e pelo compartilhamento de conhecimentos. Estou sempre em busca de novos desafios e oportunidades para crescer. Fique à vontade para entrar emm contato comigo, vamos aprender e compartilhar juntos! 💻 <br><br>
