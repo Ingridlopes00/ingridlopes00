@@ -19,4 +19,4 @@
 
 ![Ingrid Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridlopes00&show_icons=true&theme=radical)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+Sou uma programadora apaixonada pela aprendizagem contínua e pelo compartilhamento de conhecimentos. Estou sempre em busca de novos desafios e oportunidades para crescer, fique à vontade para entrar emm contato comigo, vamos aprender e compartilhar juntos! :EMOJICODE: Laptop <br><br>
