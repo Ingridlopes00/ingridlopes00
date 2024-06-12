@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou {Ingrid Lopes}</h1>
+<h1 align="center">👋 Olá, eu sou Ingrid Lopes</h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
@@ -6,7 +6,7 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
