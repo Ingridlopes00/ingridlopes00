@@ -17,6 +17,6 @@
 [![Linkedin: Ingrid](https://img.shields.io/badge/-ingridlopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-lopes-/)](https://www.linkedin.com/in/ingrid-lopes-566043152//)
 
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
+![Ingrid Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridlopes00&show_icons=true&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
